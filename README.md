@@ -1,2 +1,2 @@
 # Hello-world
-Tutorial project to learn the basic of GitHub.
+Tutorial project to learn the basics of GitHub.
